@@ -1,0 +1,19 @@
+Blob, "Binary Large Object" kelimelerinin baş harflerinden oluşan bir kısaltmadır ve genellikle veritabanlarında büyük miktarda veri
+
+saklamak için kullanılan bir veri türünü ifade eder. Blob, metin dışındaki verileri temsil eder ve genellikle resimler, ses
+
+dosyaları, videolar gibi ikili veri türlerini kapsar.
+
+Blob, veri tabanlarında özel bir veri türü olarak kullanılır. Bu, veritabanlarına ikili veri akışlarını (binary data streams)
+
+doğrudan saklama yeteneği sağlar. Blob, bir dosyanın içeriğini veya dosyayı temsil eden bir referansı (örneğin, dosyanın diskteki
+
+yolunu) içerebilir. Blob verileri, metinsel olmayan verileri saklamak için kullanılırken, veritabanı sistemlerinde tipik olarak
+
+CLOB (Character Large Object) veya NCLOB (National Character Large Object) gibi metinsel verileri saklamak için kullanılan özel
+
+veri türlerinden farklıdır. Blob, özellikle dosya veya medya türündeki büyük verileri veritabanı içinde saklamak için yaygın olarak
+
+kullanılır.
+
+Özetle, Blob, veritabanlarında büyük ikili veri kümelerini saklamak için kullanılan bir veri türüdür.
